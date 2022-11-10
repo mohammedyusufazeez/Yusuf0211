@@ -13,6 +13,10 @@ private void companyAddress() {
 	// TODO Auto-generated method stub
 System.out.println("Company Address : Madurai");
 }
+private void companylicence() {
+	System.out.println("Company Licence : 123456");
+
+}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 companyInfo a = new companyInfo();
